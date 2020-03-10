@@ -1,0 +1,6 @@
+.tool-versions
+__pycache__
+.pytest_cache
+.vscode
+.idea
+*.egg-info
